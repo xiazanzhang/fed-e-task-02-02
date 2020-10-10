@@ -43,6 +43,8 @@
 
 ## 1、使用Webpack实现Vue项目打包任务
 
+[项目代码](https://github.com/xiazanzhang/fed-e-task-02-02/tree/main/code/vue-app-base)
+
 ## 环境准备
 
 ### 1：安装Webpack
