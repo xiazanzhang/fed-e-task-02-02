@@ -71,11 +71,7 @@
     "last 2 versions",
     "not dead"
   ],
-  "husky": {
-    "hooks": {
-      // "pre-commit": "yarn run precommit"
-    }
-  },
+
   "lint-staged": {
     "*.js": [
       "eslint",
